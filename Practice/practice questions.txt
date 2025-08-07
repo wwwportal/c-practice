@@ -1,0 +1,19 @@
+1.WAP to Array of struct Student – find the student with the highest marks
+
+2.WAP to use struct Employee and pointer functions to update salary
+
+3.WAP to Dynamically allocate memory for n employees, Find the employee with the highest salary.
+
+4.WAP to Write a function to swap two Point structs using pointers
+
+5.WAP to define struct Customer, save multiple customer details to a file. Read and display all customer data from the file.
+
+6.WAP to create a struct Patient with id, name, age. Write a function that accepts a pointer to a struct and increments the patient’s age by 1 year
+
+7.WAP to read a file with numbers, segregate those numbers into two arrays ,one with multiples of 3 and the other with non-multiples of three.function should return the pointer of one of the arrays.
+
+8.WAP to Store employee data (id, name, salary) in a Doubly Linked Lists. Write a function to find the employee with the highest salary and return a pointer to that node.Print that employee’s details.
+
+9.WAP for a Doubly Linked List of integers, write two functions:
+	CountNodes: Returns the total number of nodes.
+	SumNodes: Returns the sum of all integers.
